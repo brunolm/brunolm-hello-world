@@ -1,0 +1,24 @@
+{
+  "name": "brunolm-hello-world",
+  "version": "1.0.0",
+  "description": "heroku test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "echo 'ok'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunolm/brunolm-hello-world.git"
+  },
+  "author": "BrunoLM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunolm/brunolm-hello-world/issues"
+  },
+  "homepage": "https://github.com/brunolm/brunolm-hello-world#readme",
+  "dependencies": {
+    "@types/express": "^4.0.34",
+    "express": "^4.14.0"
+  }
+}
